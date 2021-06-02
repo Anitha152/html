@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1>Mozilla is Cool</h1>	
+<img title="my image" src="pic2.jpg" /> 
+<link rel="stylesheet" type="text/css" href="image1.css" />
+<body>
+<p>At Mozilla,we're a global community of 
+   <ul>
+   <li>technologies</li>
+   <li>thinkers</li>
+   <li>builders</li>
+   </ul>
+working together to keep the internet alive and accessible,so people worldwide can be informed contributers and creators of the web.
+<div>
+Read the <a href="https://google.com">Mozilla Manifesto </a> to leran more about the values and principles the guide the pursuit of our mission .</p> 
+</div>
+</html>
+</head>
